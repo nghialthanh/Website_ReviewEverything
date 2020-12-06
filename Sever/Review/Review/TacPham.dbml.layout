@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="TacPham">
+  <DataContextMoniker Name="/TacPhamDataContext" />
+  <nestedChildShapes>
+    <classShape Id="7d83c3bb-0515-498b-83a4-c6a0f5f88a5c" absoluteBounds="2.125, 1.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/TacPhamDataContext/Phim" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2cce0d78-8b67-4109-9cc3-a1bbfc802725" absoluteBounds="2.14, 1.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0565d80a-a97e-4641-aa5d-c24e066bcd7a" absoluteBounds="1.25, 6.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/TacPhamDataContext/Account" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a0e30f35-2612-4f9f-9765-78f46cc3c5a3" absoluteBounds="1.2650000000000001, 6.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="84904fc8-4183-4103-bac1-14aa8dd1118b" absoluteBounds="3.375, 4.25, 2, 2.5401025390625">
+      <DataClassMoniker Name="/TacPhamDataContext/Review" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6423d8c7-b845-4302-9cb3-0c77c89e0247" absoluteBounds="3.39, 4.71, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
